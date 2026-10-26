@@ -1,0 +1,7 @@
+{
+  "name": "Petrol FraudGuard AI",
+  "description": "An AI-powered verification tool that cross-references payment receipts with petrol pump meter readings to detect billing fraud and discrepancies.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
