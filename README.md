@@ -2,11 +2,13 @@
 <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
-# Run and deploy your AI Studio app
+# Petrol FraudGuard AI
 
-This contains everything you need to run your app locally.
+🚀 **Live Demo:** [https://petrol-fraudguard-ai.vercel.app](https://petrol-fraudguard-ai.vercel.app)
 
-View your app in AI Studio: https://ai.studio/apps/drive/1lU-8ftXxBQE_r83KTEwSE9bwkE1mWSr4
+An AI-powered web application to detect petrol pump fraud by comparing payment receipts with pump meter readings using Google Gemini AI.
+
+> View your app in AI Studio: https://ai.studio/apps/drive/1lU-8ftXxBQE_r83KTEwSE9bwkE1mWSr4
 
 ## Run Locally
 
